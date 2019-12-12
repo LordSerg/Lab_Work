@@ -1,0 +1,4 @@
+﻿  moskal_PA-19-2_LB5.cpp
+D:\_Лабораторки\Лабораторна_робота_5\moskal_PA-19-2_LB5\moskal_PA-19-2_LB5\moskal_PA-19-2_LB5.cpp(17,14): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+D:\_Лабораторки\Лабораторна_робота_5\moskal_PA-19-2_LB5\moskal_PA-19-2_LB5\moskal_PA-19-2_LB5.cpp(24,14): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+  moskal_PA-19-2_LB5.vcxproj -> D:\_Лабораторки\Лабораторна_робота_5\moskal_PA-19-2_LB5\Debug\moskal_PA-19-2_LB5.exe
