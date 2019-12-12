@@ -1,0 +1,3 @@
+﻿  moskal_PA-19-2_LB3.cpp
+D:\_Лабораторки\Лабораторна_робота_3\moskal_PA-19-2_LB3\moskal_PA-19-2_LB3\moskal_PA-19-2_LB3.cpp(75,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  moskal_PA-19-2_LB3.vcxproj -> D:\_Лабораторки\Лабораторна_робота_3\moskal_PA-19-2_LB3\Debug\moskal_PA-19-2_LB3.exe
